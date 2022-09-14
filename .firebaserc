@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab-iv-85f27"
+  },
+  "targets": {
+    "lab-iv-85f27": {
+      "hosting": {
+        "sala-de-juegos": [
+          "lab-iv-85f27"
+        ]
+      }
+    }
+  }
+}
